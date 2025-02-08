@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "28223984247",
+    "project_id": "stock-app-cab2a",
+    "storage_bucket": "stock-app-cab2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28223984247:android:03fadb2c54048910462c72",
+        "android_client_info": {
+          "package_name": "com.example.stock_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28223984247-qh5iru8jv9jj87btmqe2nhhntmajf3rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7l2p2X4XfOWYD1LBy5JQLXDdduMtcdWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28223984247-qh5iru8jv9jj87btmqe2nhhntmajf3rt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28223984247-8lk0pti94ia9p9d700cp5tkemqnapgh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stockFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
